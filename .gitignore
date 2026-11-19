@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.db
+*.opendb
+
+# Build outputs
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog/
+*.recipe
+
+# Subdirectory Debug/Release folders
+**/Debug/
+**/Release/
